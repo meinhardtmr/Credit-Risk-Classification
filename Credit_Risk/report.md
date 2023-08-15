@@ -6,8 +6,6 @@ The purpose of this analysis is to identify the creditworthiness of borrowers. T
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
-
 * Machine Learning Model 1 results are as follows:
   * Accuracy - The accuracy is 0.99, which shows almost no false positives or false negatives.
   * Precision - Precision is based on the ration of true positives over the total of true positives and false positives. The precision for good loans is 1.00, which means the model predicted good loans 100% of the time. The precision for bad loans is 0.85, which mean some loans were flagged as bad when the should have been flagged as good.  
